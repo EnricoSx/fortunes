@@ -1,0 +1,2371 @@
+login - apre una sessione sul sistema
+%
+run-parts - esegue script o programmi in una directory
+%
+su - cambia ID utente o diventa amministratore
+%
+tempfile - crea un file temporaneo in maniera sicura
+%
+which - localizza un comando
+%
+bash - GNU Bourne-Again SHell
+%
+bunzip2 - a block-sorting file compressor, v1.0.6
+%
+bzcat - decompresses files to stdout
+%
+bzcmp - compare bzip2 compressed files
+%
+bzdiff - compare bzip2 compressed files
+%
+bzegrep - search possibly bzip2 compressed files for a regular expression
+%
+bzexe - compress executable files in place
+%
+bzfgrep - search possibly bzip2 compressed files for a regular expression
+%
+bzgrep - search possibly bzip2 compressed files for a regular expression
+%
+bzip2 - a block-sorting file compressor, v1.0.6
+%
+bzip2recover - recovers data from damaged bzip2 files
+%
+bzless - file perusal filter for crt viewing of bzip2 compressed text
+%
+bzmore - file perusal filter for crt viewing of bzip2 compressed text
+%
+cat - concatenate files and print on the standard output
+%
+chacl - change the access control list of a file or directory
+%
+chgrp - change group ownership
+%
+chmod - change permissions of a file
+%
+chmod - change file mode bits
+%
+chown - change ownership of a file
+%
+chown - change file owner and group
+%
+chvt - change foreground virtual terminal
+%
+con2fbmap - shows and sets mapping between consoles and framebuffer devices.
+%
+cp - copy files and directories
+%
+cpio - copy files to and from archives
+%
+dash - command interpreter shell)
+%
+date - print or set the system date and time
+%
+dd - convert and copy a file
+%
+df - report file system disk space usage
+%
+dir - list directory contents
+%
+dmesg - print or control the kernel ring buffer
+%
+dnsdomainname - show the system's DNS domain name
+%
+domainname - show or set the system's NIS/YP domain name
+%
+dumpkeys - dump keyboard translation tables
+%
+echo - display a line of text
+%
+red - line-oriented text editor
+%
+ed - line-oriented text editor
+%
+egrep - print lines matching a pattern
+%
+false - do nothing, unsuccessfully
+%
+fbset - show and modify frame buffer device settings
+%
+fgconsole - print the number of the active VT.
+%
+fgrep - print lines matching a pattern
+%
+findmnt - find a filesystem
+%
+fuser - identify processes using files or sockets
+%
+getfacl - get file access control lists
+%
+grep - print lines matching a pattern
+%
+gunzip - compress or expand files
+%
+gzexe - compress executable files in place
+%
+gzip - compress or expand files
+%
+hciconfig - configure Bluetooth devices
+%
+hostname - Local hostname configuration file
+%
+hostname - show or set the system's host name
+%
+hostname - hostname resolution description
+%
+ip - show / manipulate routing, devices, policy routing and tunnels
+%
+ip - Linux IPv4 protocol implementation
+%
+journalctl - Query the systemd journal
+%
+kbd_mode - report or set the keyboard mode
+%
+kill - send signal to a process
+%
+kill - send a signal to a process
+%
+kmod - Program to manage Linux Kernel modules
+%
+less - opposite of more
+%
+lessecho - expand metacharacters
+%
+lessfile - "input preprocessor" for less.
+%
+lesskey - specify key bindings for less
+%
+lesspipe - "input preprocessor" for less.
+%
+ln - make links between files
+%
+loadkeys - load keyboard translation tables
+%
+login - write utmp and wtmp entries
+%
+loginctl - Control the systemd login manager
+%
+ls - list directory contents
+%
+lsblk - list block devices
+%
+lsmod - Show the status of modules in the Linux Kernel
+%
+machinectl - Control the systemd machine manager
+%
+mkdir - create a directory
+%
+mkdir - make directories
+%
+mknod - create a special or ordinary file
+%
+mknod - make block or character special files
+%
+mktemp - make a unique temporary filename
+%
+mktemp - create a temporary file or directory
+%
+modeline2fb - simple modeline to fb.modes translator
+%
+more - file perusal filter for crt viewing
+%
+mount - mount filesystem
+%
+mount - mount a filesystem
+%
+mountpoint - see if a directory is a mountpoint
+%
+mt - control magnetic tape drive operation
+%
+mt-gnu - control magnetic tape drive operation
+%
+mv - move rename) files
+%
+nano - Nano's ANOther editor, an enhanced free Pico clone
+%
+nc - arbitrary TCP and UDP connections and listens
+%
+nc.openbsd - arbitrary TCP and UDP connections and listens
+%
+nc.traditional - TCP/IP swiss army knife
+%
+netcat - arbitrary TCP and UDP connections and listens
+%
+netstat - Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+%
+nisdomainname - show or set the system's NIS/YP domain name
+%
+open - open and possibly create a file
+%
+open - start a program on a new virtual terminal VT).
+%
+openvt - start a program on a new virtual terminal VT).
+%
+pidof - find the process ID of a running program.
+%
+ping - send ICMP ECHO_REQUEST to network hosts
+%
+ping6 - send ICMP ECHO_REQUEST to network hosts
+%
+plymouth - A graphical boot system and logger
+%
+plymouth - Send commands to plymouthd
+%
+ps - report a snapshot of the current processes.
+%
+pwd - print name of current/working directory
+%
+rbash - restricted bash, see bash1)
+%
+readlink - read value of a symbolic link
+%
+readlink - print resolved symbolic links or canonical file names
+%
+tc-red - Random Early Detection
+%
+rm - remove files or directories
+%
+rmdir - delete a directory
+%
+rmdir - remove empty directories
+%
+rnano - Restricted mode for Nano's ANOther editor, an enhanced free Pico clone
+%
+sed - stream editor for filtering and transforming text
+%
+setfacl - set file access control lists
+%
+setfont - load EGA/VGA console screen font
+%
+setupcon - sets up the font and the keyboard on the console
+%
+sh - command interpreter shell)
+%
+sh.distrib - command interpreter shell)
+%
+sleep - sleep for the specified number of seconds
+%
+sleep - delay for a specified amount of time
+%
+ss - another utility to investigate sockets
+%
+stty - unimplemented system calls
+%
+stty - change and print terminal line settings
+%
+sync - commit buffer cache to disk
+%
+sync - flush file system buffers
+%
+systemctl - Control the systemd system and service manager
+%
+systemd - systemd system and service manager
+%
+systemd-ask-password - Query the user for a system password
+%
+systemd-escape - Escape strings for usage in system unit names
+%
+systemd-inhibit - Execute a program with an inhibition lock taken
+%
+systemd-machine-id-setup - Initialize the machine ID in /etc/machine-id
+%
+systemd-notify - Notify service manager about start-up completion and other daemon status changes
+%
+systemd-tmpfiles - Creates, deletes and cleans up volatile and temporary files and directories
+%
+systemd-tty-ask-password-agent - List or process pending systemd password requests
+%
+tailf - follow the growth of a log file
+%
+tar - The GNU version of the tar archiving utility
+%
+touch - change file timestamps
+%
+true - do nothing, successfully
+%
+udevadm - udev management tool
+%
+umount - unmount filesystem
+%
+umount - unmount file systems
+%
+uname - get name and information about current kernel
+%
+uname - print system information
+%
+uncompress - compress or expand files
+%
+unicode_start - put keyboard and console in unicode mode
+%
+vdir - list directory contents
+%
+wdctl - show hardware watchdog status
+%
+ypdomainname - show or set the system's NIS/YP domain name
+%
+zcat - compress or expand files
+%
+zcmp - compare compressed files
+%
+zdiff - compare compressed files
+%
+zegrep - search possibly compressed files for a regular expression
+%
+zfgrep - search possibly compressed files for a regular expression
+%
+zforce - force a '.gz' extension on all gzip files
+%
+zgrep - search possibly compressed files for a regular expression
+%
+zless - file perusal filter for crt viewing of compressed text
+%
+zmore - file perusal filter for crt viewing of compressed text
+%
+znew - recompress .Z files to .gz files
+%
+installkernel - installa una nuova immagine del kernel
+%
+start-stop-daemon - avvia e ferma i programmi demone di sistema
+%
+agetty - alternative Linux getty
+%
+badblocks - search a device for bad blocks
+%
+blkdiscard - discard sectors on a device
+%
+blkid - locate/print block device attributes
+%
+blockdev - call block device ioctls from the command line
+%
+bridge - show / manipulate bridge addresses and devices
+%
+capsh - capability shell wrapper
+%
+cfdisk - display or manipulate a disk partition table
+%
+chcpu - configure CPUs
+%
+crda - send to the kernel a wireless regulatory domain for a given ISO / IEC 3166 alpha2
+%
+ctrlaltdel - set the function of the Ctrl-Alt-Del combination
+%
+debugfs - ext2/ext3/ext4 file system debugger
+%
+depmod - Generate modules.dep and map files.
+%
+dhclient - Dynamic Host Configuration Protocol Client
+%
+dhclient-script - DHCP client network configuration script
+%
+dhcpcd - a DHCP client
+%
+dhcpcd5 - a DHCP client
+%
+dmsetup - low level logical volume management
+%
+dosfsck - check and repair MS-DOS filesystems
+%
+dosfslabel - set or get MS-DOS filesystem label
+%
+dphys-swapfile - set up, mount/unmount, and delete an swap file
+%
+dumpe2fs - dump ext2/ext3/ext4 filesystem information
+%
+e2fsck - check a Linux ext2/ext3/ext4 file system
+%
+e2image - Save critical ext2/ext3/ext4 filesystem metadata to a file
+%
+e2label - Change the label on an ext2/ext3/ext4 filesystem
+%
+e2undo - Replay an undo log for an ext2/ext3/ext4 filesystem
+%
+fake-hwclock - Control fake hardware clock
+%
+fatlabel - set or get MS-DOS filesystem label
+%
+fdisk - manipulate disk partition table
+%
+findfs - find a filesystem by label or UUID
+%
+fsck - check and repair a Linux filesystem
+%
+fsck.cramfs - fsck compressed ROM file system
+%
+fsck.ext2 - check a Linux ext2/ext3/ext4 file system
+%
+fsck.ext3 - check a Linux ext2/ext3/ext4 file system
+%
+fsck.ext4 - check a Linux ext2/ext3/ext4 file system
+%
+fsck.ext4dev - check a Linux ext2/ext3/ext4 file system
+%
+fsck.fat - check and repair MS-DOS filesystems
+%
+fsck.minix - check consistency of Minix filesystem
+%
+fsck.msdos - check and repair MS-DOS filesystems
+%
+fsck.nfs - Dummy fsck.nfs script that always returns success.
+%
+fsck.vfat - check and repair MS-DOS filesystems
+%
+fsfreeze - suspend access to a filesystem Ext3/4, ReiserFS, JFS, XFS)
+%
+fstab-decode - run a command with fstab-encoded arguments
+%
+fstrim - discard unused blocks on a mounted filesystem
+%
+getcap - examine file capabilities
+%
+getpcaps - List Process Capabilities
+%
+getty - alternative Linux getty
+%
+halt - variables that affect the behavior of the shutdown scripts
+%
+halt - Halt, power-off or reboot the machine
+%
+hwclock - variables that affect the behaviour of the hwclock boot script
+%
+hwclock - query or set the hardware clock RTC)
+%
+ifconfig - configure a network interface
+%
+ifdown - take a network interface down
+%
+ifquery - parse interface configuration
+%
+ifup - bring a network interface up
+%
+init - systemd system and service manager
+%
+insmod - Simple program to insert a module into the Linux Kernel
+%
+insserv - boot sequence organizer using LSB init.d script dependency information
+%
+ip - show / manipulate routing, devices, policy routing and tunnels
+%
+ip - Linux IPv4 protocol implementation
+%
+ip6tables - administration tool for IPv4/IPv6 packet filtering and NAT
+%
+ip6tables-restore - Restore IPv6 Tables
+%
+ip6tables-save - dump iptables rules to stdout
+%
+iptables - administration tool for IPv4/IPv6 packet filtering and NAT
+%
+iptables-restore - Restore IP Tables
+%
+iptables-save - dump iptables rules to stdout
+%
+isosize - output the length of an iso9660 filesystem
+%
+iw - show / manipulate wireless devices and their configuration
+%
+iwconfig - configure a wireless network interface
+%
+iwevent - Display Wireless Events generated by drivers and setting changes
+%
+iwgetid - Report ESSID, NWID or AP/Cell Address of wireless network
+%
+iwlist - Get more detailed wireless information from a wireless interface
+%
+iwpriv - configure optionals private) parameters of a wireless network interface
+%
+iwspy - Get wireless statistics from specific nodes
+%
+kbdrate - reset the keyboard repeat rate and delay time
+%
+killall5 - send a signal to all processes.
+%
+ldconfig - configure dynamic linker run-time bindings
+%
+logsave - save the output of a command in a logfile
+%
+losetup - set up and control loop devices
+%
+lsmod - Show the status of modules in the Linux Kernel
+%
+makedev - manage a device number
+%
+MAKEDEV - create devices
+%
+mii-tool - view, manipulate media-independent interface status
+%
+mkdosfs - create an MS-DOS filesystem under Linux
+%
+mke2fs - create an ext2/ext3/ext4 filesystem
+%
+mkfs - build a Linux filesystem
+%
+mkfs.bfs - make an SCO bfs filesystem
+%
+mkfs.cramfs - make compressed ROM file system
+%
+mkfs.ext2 - create an ext2/ext3/ext4 filesystem
+%
+mkfs.ext3 - create an ext2/ext3/ext4 filesystem
+%
+mkfs.ext4 - create an ext2/ext3/ext4 filesystem
+%
+mkfs.ext4dev - create an ext2/ext3/ext4 filesystem
+%
+mkfs.fat - create an MS-DOS filesystem under Linux
+%
+mkfs.minix - make a Minix filesystem
+%
+mkfs.msdos - create an MS-DOS filesystem under Linux
+%
+mkfs.vfat - create an MS-DOS filesystem under Linux
+%
+mkhomedir_helper - Helper binary that creates home directories
+%
+mkswap - set up a Linux swap area
+%
+modinfo - Show information about a Linux Kernel module
+%
+modprobe - Add and remove modules from the Linux Kernel
+%
+mountall - Mount filesystems during boot
+%
+mount.cifs - mount using the Common Internet File System CIFS)
+%
+mount.nfs - mount a Network File System
+%
+nameif - name network interfaces based on MAC addresses
+%
+pam_tally - The login counter tallying) module
+%
+pam_tally2 - The login counter tallying) module
+%
+parted - oggetto sconosciuto)
+%
+partprobe - inform the OS of partition table changes
+%
+pivot_root - change the root filesystem
+%
+pivot_root - change the root filesystem
+%
+plipconfig - fine tune PLIP device parameters
+%
+plymouthd - The plymouth daemon
+%
+poweroff - Halt, power-off or reboot the machine
+%
+rarp - manipulate the system RARP table
+%
+raw - bind a Linux raw character device
+%
+raw - Linux IPv4 raw sockets
+%
+reboot - reboot or enable/disable Ctrl-Alt-Del
+%
+reboot - Halt, power-off or reboot the machine
+%
+regdbdump - parse and print out regulatory rules file
+%
+resize2fs - ext2/ext3/ext4 file system resizer
+%
+resolvconf - a framework for managing multiple DNS configurations
+%
+rmmod - Simple program to remove a module from the Linux Kernel
+%
+route - show / manipulate the IP routing table
+%
+rpcbind - universal addresses to RPC program number mapper
+%
+rpc.statd - NSM service daemon
+%
+rtacct - network statistics tools.
+%
+rtmon - listens to and monitors RTnetlink
+%
+runlevel - Print previous and current SysV runlevel
+%
+runuser - run a command with substitute user and group ID
+%
+setcap - set file capabilities
+%
+sfdisk - partition table manipulator for Linux
+%
+shadowconfig - toggle shadow passwords on and off
+%
+showmount - show mount information for an NFS server
+%
+shutdown - shut down part of a full-duplex connection
+%
+shutdown - Halt, power-off or reboot the machine
+%
+slattach - attach a network interface to a serial line
+%
+sm-notify - send reboot notifications to NFS peers
+%
+sulogin - Single-user login
+%
+swaplabel - print or change the label or UUID of a swap area
+%
+swapoff - start/stop swapping to file/device
+%
+swapoff - enable/disable devices and files for paging and swapping
+%
+swapon - start/stop swapping to file/device
+%
+swapon - enable/disable devices and files for paging and swapping
+%
+switch_root - switch to another filesystem as the root of the mount tree
+%
+sysctl - read/write system parameters
+%
+sysctl - configure kernel parameters at runtime
+%
+tc - show / manipulate traffic control settings
+%
+telinit - Change SysV runlevel
+%
+tune2fs - adjust tunable filesystem parameters on ext2/ext3/ext4 filesystems
+%
+udevadm - udev management tool
+%
+udevd - Device event managing daemon
+%
+umount.nfs - unmount a Network File System
+%
+unix_chkpwd - Helper binary that verifies the password of the current user
+%
+unix_update - Helper binary that updates the password of a given user
+%
+wipefs - wipe a signature from a device
+%
+wpa_action - wpa_cli action script
+%
+wpa_cli - WPA command line client
+%
+wpa_supplicant - Wi-Fi Protected Access client and IEEE 802.1X supplicant
+%
+xtables-multi - xtables multi-link binary for netfilter's iptables and ip6tables
+%
+apropos - ricerca nei nomi e nelle descrizioni delle pagine di manuale
+%
+apt-cache - interroga la cache di APT
+%
+apt-cdrom - strumento APT per la gestione dei CD-ROM
+%
+apt-config - programma di interrogazione della configurazione di APT
+%
+apt-extracttemplates - utilità per estrarre configurazioni e modelli debconf dai pacchetti Debian
+%
+apt-ftparchive - strumento per generare file indice
+%
+apt-get - strumento APT per la gestione dei pacchetti, interfaccia a riga di comando
+%
+aptitude - interfaccia di alto livello per il gestore di pacchetti
+%
+aptitude-create-state-bundle - crea un archivio con lo stato attuale di aptitude
+%
+aptitude-curses - interfaccia di alto livello per il gestore di pacchetti
+%
+aptitude-run-state-bundle - spacchetta un archivio dello stato di aptitude e invoca il comando aptitude su di esso
+%
+apt-key - strumento APT per la gestione delle chiavi
+%
+apt-mark - mette/toglie il contrassegno di automaticamente installato ai pacchetti
+%
+apt-sortpkgs - utilità per ordinare i file indice dei pacchetti
+%
+catman - crea o aggiorna le pagine di manuale preformattate
+%
+chage - cambia le informazioni sulla scadenza della password
+%
+chfn - cambia il nome dell'utente e altre informazioni
+%
+chsh - cambia la shell di login
+%
+dpkg - gestore dei pacchetti per Debian
+%
+dpkg-architecture - imposta e determina l'architettura per la compilazione dei pacchetti
+%
+dpkg-buildpackage - crea pacchetti binari o sorgente a partire dai sorgenti
+%
+dpkg-checkbuilddeps - controlla le dipendenze e i conflitti di compilazione
+%
+dpkg-deb - strumento per la manipolazione di archivi di pacchetto Debian .deb)
+%
+dpkg-distaddfile - aggiunge voci a debian/files
+%
+dpkg-gencontrol - genera file di controllo di Debian
+%
+dpkg-maintscript-helper - aggira limiti noti di dpkg negli script del manutentore
+%
+dpkg-name - rinomina i pacchetti Debian in nomi completi di pacchetto
+%
+dpkg-parsechangelog - analizza i file changelog Debian
+%
+dpkg-query - uno strumento per interrogare il database di dpkg
+%
+dpkg-scanpackages - crea file Packages con indici
+%
+dpkg-scansources - crea file Sources con indici
+%
+dpkg-source - strumento di manipolazione dei pacchetti sorgente Debian .dsc)
+%
+dpkg-split - strumento per suddividere/unire archivi di pacchetto Debian
+%
+dpkg-statoverride - sovrascrive la proprietà e i permessi dei file
+%
+dpkg-vendor - interroga informazioni sui produttori di una distribuzione
+%
+ex - VI Migliorato, un editor di testi per programmatori
+%
+expiry - controlla e fa rispettare la scadenza della password
+%
+faillog - file di log degli accessi falliti
+%
+faillog - mostra le registrazioni e imposta i limiti degli accessi falliti
+%
+gpasswd - amministra /etc/group e /etc/gshadow
+%
+lastlog - riepiloga gli accessi più recenti di tutti gli utenti o dell'utente dato
+%
+man - un'interfaccia ai manuali di riferimento in linea
+%
+mandb - crea o aggiorna le cache index delle pagine di manuale
+%
+manpath - formato del file /etc/manpath.config
+%
+manpath - determina il percorso di ricerca delle pagine di manuale
+%
+newgrp - effettua l'accesso a un nuovo gruppo
+%
+passwd - il file delle password
+%
+passwd - cambia la password utente
+%
+rview - VI Migliorato, un editor di testi per programmatori
+%
+savelog - salva un file di log
+%
+sensible-browser - modifica di testi, paginazione e navigazione web ragionevoli
+%
+sensible-editor - modifica di testi, paginazione e navigazione web ragionevoli
+%
+sensible-pager - modifica di testi, paginazione e navigazione web ragionevoli
+%
+sg - esegue un comando con un diverso ID di gruppo
+%
+update-alternatives - mantiene collegamenti simbolici che determinano i comandi predefiniti
+%
+vi - VI Migliorato, un editor di testi per programmatori
+%
+view - VI Migliorato, un editor di testi per programmatori
+%
+whatis - mostra le descrizioni delle pagine di manuale
+%
+which - localizza un comando
+%
+xxd - Produce esadecimale da un file binario o viceversa.
+%
+[ - check file types and compare values
+%
+2to3 - Python2 to Python3 converter
+%
+2to3-2.7 - Python2 to Python3 converter
+%
+2to3-3.4 - Python2 to Python3 converter
+%
+a2p - Awk to Perl translator
+%
+aconnect - ALSA sequencer connection manager
+%
+addpart - a simple wrapper around the "add partition" ioctl
+%
+addr2line - convert addresses into file names and line numbers.
+%
+alsaloop - command-line PCM loopback
+%
+alsamixer - soundcard mixer for ALSA soundcard driver, with ncurses interface
+%
+amidi - read from and write to ALSA RawMIDI ports
+%
+amixer - command-line mixer for ALSA soundcard driver
+%
+aplay - command-line sound recorder and player for ALSA soundcard driver
+%
+aplaymidi - play Standard MIDI Files
+%
+apt - command-line interface
+%
+apt-listchanges - Show new changelog entries from Debian package archives
+%
+ar - create, modify, and extract from archives
+%
+arch - print machine hardware name same as uname -m)
+%
+arecord - command-line sound recorder and player for ALSA soundcard driver
+%
+arecordmidi - record Standard MIDI Files
+%
+arm-linux-gnueabihf-addr2line - convert addresses into file names and line numbers.
+%
+arm-linux-gnueabihf-ar - create, modify, and extract from archives
+%
+arm-linux-gnueabihf-as - the portable GNU assembler.
+%
+arm-linux-gnueabihf-c++filt - Demangle C++ and Java symbols.
+%
+arm-linux-gnueabihf-dwp - The DWARF packaging utility
+%
+arm-linux-gnueabihf-elfedit - Update the ELF header of ELF files.
+%
+arm-linux-gnueabihf-gcc-ar - a wrapper around ar adding the - plugin option
+%
+arm-linux-gnueabihf-gcc-nm - a wrapper around nm adding the - plugin option
+%
+arm-linux-gnueabihf-gcc-ranlib - a wrapper around ranlib adding the - plugin option
+%
+arm-linux-gnueabihf-gprof - display call graph profile data
+%
+arm-linux-gnueabihf-ld - The GNU linker
+%
+arm-linux-gnueabihf-ld.bfd - The GNU linker
+%
+arm-linux-gnueabihf-ld.gold - The GNU ELF linker
+%
+arm-linux-gnueabihf-nm - list symbols from object files
+%
+arm-linux-gnueabihf-objcopy - copy and translate object files
+%
+arm-linux-gnueabihf-objdump - display information from object files.
+%
+arm-linux-gnueabihf-python2.7-config - output build options for python C/C++ extensions or embedding
+%
+arm-linux-gnueabihf-python3.4-config - output build options for python C/C++ extensions or embedding
+%
+arm-linux-gnueabihf-python3.4m-config - output build options for python C/C++ extensions or embedding
+%
+arm-linux-gnueabihf-python3-config - output build options for python C/C++ extensions or embedding
+%
+arm-linux-gnueabihf-python3m-config - output build options for python C/C++ extensions or embedding
+%
+arm-linux-gnueabihf-python-config - output build options for python C/C++ extensions or embedding
+%
+arm-linux-gnueabihf-ranlib - generate index to archive.
+%
+arm-linux-gnueabihf-readelf - Displays information about ELF files.
+%
+arm-linux-gnueabihf-run - Simulator front-end
+%
+arm-linux-gnueabihf-size - list section sizes and total size.
+%
+arm-linux-gnueabihf-strings - print the strings of printable characters in files.
+%
+arm-linux-gnueabihf-strip - Discard symbols from object files.
+%
+as - the portable GNU assembler.
+%
+aseqdump - show the events received at an ALSA sequencer port
+%
+aseqnet - ALSA sequencer connectors over network
+%
+awk - pattern scanning and text processing language
+%
+base64 - base64 encode/decode data and print to standard output
+%
+basename - parse pathname components
+%
+basename - strip directory and suffix from filenames
+%
+bashbug - report a bug in bash
+%
+bccmd - Utility for the CSR BCCMD interface
+%
+bluetoothctl - bluetooth control tool
+%
+bsd-from - print names of those who have sent mail
+%
+bsd-write - send a message to another user
+%
+btmon - Bluetooth monitor
+%
+busctl - Introspect the bus
+%
+c2ph - Dump C structures as generated from "cc - g - S" stabs
+%
+c89 - ANSI 1989) C compiler
+%
+c89-gcc - ANSI 1989) C compiler
+%
+c99 - ANSI 1999) C compiler
+%
+c99-gcc - ANSI 1999) C compiler
+%
+cal - displays a calendar and the date of Easter
+%
+calendar - reminder service
+%
+captoinfo - convert a termcap description into a terminfo description
+%
+catchsegv - Catch segmentation faults in programs
+%
+c++filt - Demangle C++ and Java symbols.
+%
+cgps - test clients for gpsd
+%
+chacl - change the access control list of a file or directory
+%
+chardet - universal character encoding detector
+%
+chardet3 - universal character encoding detector
+%
+chardetect - universal character encoding detector
+%
+chardetect3 - universal character encoding detector
+%
+chattr - change file attributes on a Linux file system
+%
+chcon - change file security context
+%
+chrt - manipulate the real-time attributes of a process
+%
+cifscreds - manage NTLM credentials in kernel keyring
+%
+ciptool - Bluetooth Common ISDN Access Profile CIP)
+%
+ckbcomp - compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol
+%
+cksum - checksum and count the bytes in a file
+%
+clear - clear the terminal screen
+%
+clear_console - clear the console
+%
+cmp - compare two files byte by byte
+%
+codepage - extract a codepage from an MSDOS codepage file
+%
+col - filter reverse line feeds from input
+%
+colcrt - filter nroff output for CRT previewing
+%
+colrm - remove columns from a file
+%
+column - columnate lists
+%
+comm - compare two sorted files line by line
+%
+compile_et - error table compiler
+%
+Compose - X client mappings for multi-key input sequences
+%
+compose - execute programs via entries in the mailcap file
+%
+config_data 1p) - Query or change configuration of Perl modules
+%
+config_data.diverted - Query or change configuration of Perl modules
+%
+convert-dtsv0 - Device Tree Compiler - Conversion to Version 1
+%
+corelist - a commandline frontend to Module::CoreList
+%
+cpan - easily interact with CPAN from the command line
+%
+cpansign 1p) - CPAN signature management utility
+%
+c_rehash 1ssl) - Create symbolic links to files named by the hash values
+%
+crontab - tables for driving cron
+%
+crontab - maintain crontab files for individual users Vixie Cron)
+%
+csplit - split a file into sections determined by context lines
+%
+ctstat - unified linux network statistics
+%
+curl - transfer a URL
+%
+cut - remove sections from each line of files
+%
+dbus-cleanup-sockets - clean up leftover sockets in a directory
+%
+dbus-daemon - Message bus daemon
+%
+dbus-monitor - debug probe to print message bus messages
+%
+dbus-run-session - start a process as a new D-Bus session
+%
+dbus-send - Send a message to a message bus
+%
+dbus-uuidgen - Utility to generate UUIDs
+%
+dc - an arbitrary precision calculator
+%
+deallocvt - deallocate unused virtual consoles
+%
+debconf - run a debconf-using program
+%
+debconf-apt-progress - install packages using debconf to display a progress bar
+%
+debconf-communicate - communicate with debconf
+%
+debconf-copydb - copy a debconf database
+%
+debconf-escape - helper when working with debconf's escape capability
+%
+debconf-getlang - extract a language from a templates file
+%
+debconf-get-selections - output contents of debconf database
+%
+debconf-loadtemplate - load template file into debconf database
+%
+debconf-mergetemplate - merge together multiple debconf template files
+%
+debconf-set-selections - insert new values into the debconf database
+%
+debconf-show - query the debconf database
+%
+deb-systemd-helper 1p) - subset of systemctl for machines not running systemd
+%
+deb-systemd-invoke 1p) - wrapper around systemctl, respecting policy-rc.d
+%
+delpart - simple wrapper around the "del partition" ioctl
+%
+dh_bash-completion - install bash completions for package
+%
+dh_installxmlcatalogs - install and register XML catalog files
+%
+dh_numpy - adds Numpy depends to python:Depends substvar
+%
+dh_pypy - calculates PyPy dependencies, adds maintainer scripts to byte compile files, etc.
+%
+dh_pysupport - use the python-support framework to handle Python modules
+%
+dh_python2 - calculates Python dependencies, adds maintainer scripts to byte compile files, etc.
+%
+dh_python3 - calculates Python dependencies, adds maintainer scripts to byte compile files, etc.
+%
+diff - compare files line by line
+%
+diff3 - compare three files line by line
+%
+dircolors - color setup for ls
+%
+dirname - parse pathname components
+%
+dirname - strip last component from file name
+%
+dos2unix - DOS/Mac to Unix and vice versa text file format converter
+%
+Dpkg - module with core variables
+%
+dpkg-buildflags - returns build flags to use during package build
+%
+dpkg-divert - override a package's version of a file
+%
+dpkg-genchanges - generate Debian .changes files
+%
+dpkg-gensymbols - generate symbols files shared library dependency information)
+%
+dpkg-mergechangelogs - 3-way merge of debian/changelog files
+%
+dpkg-shlibdeps - generate shared library substvar dependencies
+%
+dpkg-trigger - a package trigger utility
+%
+dtc - Device Tree Compiler
+%
+dtdiff - compare two different device-tree
+%
+du - estimate file space usage
+%
+dumpkeys - dump keyboard translation tables
+%
+dwp - The DWARF packaging utility
+%
+edit - execute programs via entries in the mailcap file
+%
+editor - Nano's ANOther editor, an enhanced free Pico clone
+%
+elfedit - Update the ELF header of ELF files.
+%
+enc2xs - - Perl Encode Module Generator
+%
+env - run a program in a modified environment
+%
+envsubst - substitutes environment variables in shell format strings
+%
+eqn - format equations for troff or MathML
+%
+expand - convert tabs to spaces
+%
+expr - evaluate expressions
+%
+f2py - Fortran to Python interface generator
+%
+f2py2.7 - Fortran to Python interface generator
+%
+factor - factor numbers
+%
+faked-sysv - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+%
+faked-tcp - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+%
+fakeroot - run a command in an environment faking root privileges for file manipulation
+%
+fakeroot-sysv - run a command in an environment faking root privileges for file manipulation
+%
+fakeroot-tcp - run a command in an environment faking root privileges for file manipulation
+%
+fallocate - manipulate file space
+%
+fallocate - preallocate or deallocate space to a file
+%
+fc-cache - build font information cache files
+%
+fc-cat - read font information cache files
+%
+fc-list - list available fonts
+%
+fc-match - match available fonts
+%
+fc-pattern - parse and show pattern
+%
+fc-query - query font files
+%
+fc-scan - scan font files or directories
+%
+fc-validate - validate font files
+%
+fdtdump - prints a readable version of a flat device-tree file.
+%
+fdtget - read values from device-tree
+%
+fdtput - write a property value to a device-tree
+%
+file - determine file type
+%
+file-rename 1p) - renames multiple files
+%
+find - search for files in a directory hierarchy
+%
+find2perl - translate find command lines to Perl code
+%
+flock - apply or remove an advisory lock on an open file
+%
+flock - manage locks from shell scripts
+%
+fmt - simple optimal text formatter
+%
+fold - wrap each input line to fit in specified width
+%
+free - allocate and free dynamic memory
+%
+free - Display amount of free and used memory in the system
+%
+freetype-config - Get information about a libfreetype installation
+%
+from - print names of those who have sent mail
+%
+funzip - filter for extracting from a ZIP archive in a pipe
+%
+gcc-ar - a wrapper around ar adding the - plugin option
+%
+gcc-ar-4.9 - a wrapper around ar adding the - plugin option
+%
+gcc-nm - a wrapper around nm adding the - plugin option
+%
+gcc-nm-4.9 - a wrapper around nm adding the - plugin option
+%
+gcc-ranlib - a wrapper around ranlib adding the - plugin option
+%
+gcc-ranlib-4.9 - a wrapper around ranlib adding the - plugin option
+%
+gcore - Generate a core file for a running process
+%
+gdebi - Simple tool to install deb files
+%
+gegps - test clients for gpsd
+%
+gencat - Generate message catalog
+%
+geqn - format equations for troff or MathML
+%
+getcifsacl - Userspace helper to display an ACL in a security descriptor for Common Internet File System CIFS)
+%
+getconf - Query system configuration variables
+%
+getent - get entries from Name Service Switch libraries
+%
+getfacl - get file access control lists
+%
+getkeycodes - print kernel scancode-to-keycode mapping table
+%
+getopt - Parse command-line options
+%
+getopt - parse command options enhanced)
+%
+gettext - translate message
+%
+gettext - translate message
+%
+ginstall-info - update info/dir entries
+%
+Git 3pm) - Perl interface to the Git version control system
+%
+git - the stupid content tracker
+%
+git-receive-pack - Receive what is pushed into the repository
+%
+git-shell - Restricted login shell for Git-only SSH access
+%
+git-upload-archive - Send archive back to git-archive
+%
+git-upload-pack - Send objects packed back to git-fetch-pack
+%
+gold - The GNU ELF linker
+%
+gpg - OpenPGP encryption and signing tool
+%
+gpgsplit - Split an OpenPGP message into packets
+%
+gpgv - Verify OpenPGP signatures
+%
+gpg-zip - encrypt or sign files into an archive
+%
+gpic - compile pictures for troff or TeX
+%
+gprof - display call graph profile data
+%
+gps2udp - feed the take from gpsd to one or more aggregation sites
+%
+gpscat - dump the output from a GPS
+%
+gpsctl - control the modes of a GPS
+%
+gpsdecode - decode GPS, RTCM or AIS streams into a readable format
+%
+gpsfake - test harness for gpsd, simulating a GPS
+%
+gpsmon - real-time GPS packet monitor and control utility
+%
+gpspipe - tool to connect to gpsd and retrieve sentences
+%
+gpsprof - profile a GPS and gpsd, plotting latency information
+%
+gpxlogger - test clients for gpsd
+%
+groff - front-end for the groff document formatting system
+%
+grog - guess options for groff command
+%
+grops - PostScript driver for groff
+%
+grotty - groff driver for typewriter-like devices
+%
+groups - print the groups a user is in
+%
+gtbl - format tables for troff
+%
+gtk-update-icon-cache - Icon theme caching utility
+%
+h2ph - convert .h C header files to .ph Perl header files
+%
+h2xs - convert .h C header files to Perl extensions
+%
+hardlink - Link multiple copies of a file
+%
+hciattach - attach serial devices via UART HCI to BlueZ stack
+%
+hcitool - configure Bluetooth connections
+%
+hd - MFM/IDE hard disk devices
+%
+hd - ASCII, decimal, hexadecimal, octal dump
+%
+head - output the first part of files
+%
+helpztags - generate the help tags file for directory
+%
+hexdump - ASCII, decimal, hexadecimal, octal dump
+%
+host - DNS lookup utility
+%
+hostid - print the numeric identifier for the current host
+%
+hostnamectl - Control the system hostname
+%
+iconv - perform character set conversion
+%
+iconv - convert text from one character encoding to another
+%
+id - print real and effective user and group IDs
+%
+iecset - Set or dump IEC958 status bits
+%
+info - readable online documentation
+%
+info - read Info documents
+%
+infobrowser - read Info documents
+%
+infocmp - compare or print out terminfo descriptions
+%
+infokey - compile customizations for Info
+%
+infotocap - convert a terminfo description into a termcap description
+%
+install - copy files and set attributes
+%
+install-info - update info/dir entries
+%
+instmodsh - A shell to examine installed modules
+%
+ionice - set or get process I/O scheduling class and priority
+%
+ipcmk - make various IPC resources
+%
+ipcrm - remove certain IPC resources
+%
+ipcs - show information on IPC facilities
+%
+iptables-xml - Convert iptables-save format to XML
+%
+ischroot - detect if running in a chroot
+%
+join - join lines of two files on a common field
+%
+json_pp - JSON::PP command utility
+%
+kbdinfo - obtain information about the status of a console
+%
+killall - kill processes by name
+%
+krb5-config.mit - tool for linking against MIT Kerberos libraries
+%
+l2ping - Send L2CAP echo request and receive answer
+%
+l2test - L2CAP testing
+%
+last - show listing of last logged in users
+%
+lastb - show listing of last logged in users
+%
+lcdgps - test clients for gpsd
+%
+lcf - Determine which of the historical versions of a config is installed
+%
+ld - The GNU linker
+%
+ld.bfd - The GNU linker
+%
+ldd - print shared library dependencies
+%
+ld.gold - The GNU ELF linker
+%
+less - opposite of more
+%
+lessecho - expand metacharacters
+%
+lessfile - "input preprocessor" for less.
+%
+lesskey - specify key bindings for less
+%
+lesspipe - "input preprocessor" for less.
+%
+lexgrog - parse header information in man pages
+%
+lft - print the route packets trace to network host
+%
+lft.db - print the route packets trace to network host
+%
+libnetcfg - configure libnet
+%
+libpng12-config - get information about installed libpng library
+%
+libpng-config - get information about installed libpng library
+%
+line - read one line
+%
+link - make a new name for a file
+%
+link - call the link function to create a link to a file
+%
+linux32 - change reported architecture in new program environment and set personality flags
+%
+linux64 - change reported architecture in new program environment and set personality flags
+%
+lnstat - unified linux network statistics
+%
+loadkeys - load keyboard translation tables
+%
+loadunimap - load the kernel unicode-to-font mapping table
+%
+locale - describes a locale definition file
+%
+locale - get locale-specific information
+%
+locale - description of multilanguage support
+%
+localectl - Control the system locale and keyboard layout settings
+%
+localedef - compile locale definition files
+%
+logger - a shell command interface to the syslog3) system log module
+%
+logname - print user's login name
+%
+look - display lines beginning with a given string
+%
+lorder - list dependencies for object files
+%
+lsattr - list file attributes on a Linux second extended file system
+%
+lsb_release - print distribution-specific information
+%
+lscpu - display information about the CPU architecture
+%
+lsinitramfs - list content of an initramfs image
+%
+lslocks - list local system locks
+%
+lspgpot - extracts the ownertrust values from PGP keyrings and list them in GnuPG ownertrust format.
+%
+lsusb - list USB devices
+%
+lua - Lua interpreter
+%
+lua5.1 - Lua interpreter
+%
+luac - Lua compiler
+%
+luac5.1 - Lua compiler
+%
+luajit - Just-In-Time Compiler for the Lua Language
+%
+lzcat - Compress or decompress .xz and .lzma files
+%
+lzcmp - compare compressed files
+%
+lzdiff - compare compressed files
+%
+lzegrep - search compressed files for a regular expression
+%
+lzfgrep - search compressed files for a regular expression
+%
+lzgrep - search compressed files for a regular expression
+%
+lzless - view xz or lzma compressed text) files
+%
+lzma - Compress or decompress .xz and .lzma files
+%
+lzmainfo - show information stored in the .lzma file header
+%
+lzmore - view xz or lzma compressed text) files
+%
+mac2unix - DOS/Mac to Unix and vice versa text file format converter
+%
+make - GNU make utility to maintain groups of programs
+%
+make-first-existing-target - runs make on one of several targets
+%
+man - macros to format man pages
+%
+mapscrn - load screen output mapping table
+%
+mawk - pattern scanning and text processing language
+%
+mcookie - generate magic cookies for xauth
+%
+md5sum - compute and check MD5 message digest
+%
+md5sum.textutils - compute and check MD5 message digest
+%
+mesg - control write access to your terminal
+%
+mkfifo - make a FIFO special file a named pipe)
+%
+mkfifo - make FIFOs named pipes)
+%
+mk_modmap - translate a Linux keytable file into an xmodmap file
+%
+motion - Detect motion using a video4linux device or network camera
+%
+mtrace - malloc tracing
+%
+mtrace - interpret the malloc trace log
+%
+mysql_config - display options for compiling clients
+%
+namei - follow a pathname until a terminal point is found
+%
+nano - Nano's ANOther editor, an enhanced free Pico clone
+%
+nawk - pattern scanning and text processing language
+%
+ncal - displays a calendar and the date of Easter
+%
+ncdu - NCurses Disk Usage
+%
+ncurses5-config - helper script for ncurses libraries
+%
+ncursesw5-config - helper script for ncurses libraries
+%
+neqn - format equations for ascii output
+%
+ngettext - translate message and choose plural form
+%
+ngettext - translate message and choose plural form
+%
+nice - change process priority
+%
+nice - run a program with modified scheduling priority
+%
+nl - number lines of files
+%
+nm - list symbols from object files
+%
+nohup - run a command immune to hangups, with output to a non-tty
+%
+nproc - print the number of processing units available
+%
+nroff - emulate nroff command with groff
+%
+nsenter - run program with namespaces of other processes
+%
+nstat - network statistics tools.
+%
+ntpdc - special NTP query program
+%
+ntpq - standard NTP query program
+%
+ntpsweep - Sweep NTP Servers and Report Relationships
+%
+ntptrace - trace a chain of NTP servers back to the primary source
+%
+numfmt - Convert numbers from/to human-readable strings
+%
+objcopy - copy and translate object files
+%
+objdump - display information from object files.
+%
+od - dump files in octal and other formats
+%
+oldfind - search for files in a directory hierarchy
+%
+omshell - OMAPI Command Shell
+%
+openssl 1ssl) - OpenSSL command line tool
+%
+pager - opposite of more
+%
+partx - tell the Linux kernel about the presence and numbering of on-disk partitions
+%
+passwd 1ssl) - compute password hashes
+%
+paste - merge lines of files
+%
+patch - apply a diff file to an original
+%
+pathchk - check whether file names are valid or portable
+%
+pdb - the Python debugger
+%
+pdb2.7 - the Python debugger
+%
+pdb3 - the Python debugger
+%
+pdb3.4 - the Python debugger
+%
+peekfd - peek at file descriptors of running processes
+%
+perl - The Perl 5 language interpreter
+%
+perl5.20.2 - The Perl 5 language interpreter
+%
+perlbug - how to submit bug reports on Perl
+%
+perlivp - Perl Installation Verification Procedure
+%
+perlthanks - how to submit bug reports on Perl
+%
+pg - browse pagewise through text files
+%
+pg_config - retrieve information about the installed version of PostgreSQL
+%
+pgrep - look up or signal processes based on name and other attributes
+%
+pic - compile pictures for troff or TeX
+%
+pico - Nano's ANOther editor, an enhanced free Pico clone
+%
+piconv - - iconv1), reinvented in perl
+%
+pinky - lightweight finger
+%
+pip - A tool for installing and managing Python packages
+%
+pip2 - A tool for installing and managing Python packages
+%
+pip3 - A tool for installing and managing Python packages
+%
+pkg-config - Return metainformation about installed libraries
+%
+pkill - look up or signal processes based on name and other attributes
+%
+pl2pm - Rough tool to translate Perl4 .pl files to Perl5 .pm modules.
+%
+pldd - display dynamic shared objects linked into a process
+%
+pmap - report memory map of a process
+%
+pod2html - convert .pod files to .html files
+%
+pod2latex 1p) - convert pod documentation to latex format
+%
+pod2man - Convert POD data to formatted *roff input
+%
+pod2readme 1p) - script to convert POD to README file
+%
+pod2text - Convert POD data to formatted ASCII text
+%
+pod2usage - print usage messages from embedded pod docs in files
+%
+podchecker - check the syntax of POD format documentation files
+%
+podselect - print selected sections of pod documentation on standard output
+%
+pr - convert text files for printing
+%
+preconv - convert encoding of input files to something GNU troff understands
+%
+prename - renames multiple files
+%
+print - execute programs via entries in the mailcap file
+%
+printenv - print all or part of environment
+%
+printerbanner - print large banner on printer
+%
+printf - formatted output conversion
+%
+printf - format and print data
+%
+prlimit - get/set resource limits
+%
+vlimit - get/set resource limits
+%
+prlimit - get and set process resource limits
+%
+prove - Run tests through a TAP harness.
+%
+prtstat - print statistics of a process
+%
+psed - a stream editor
+%
+psfaddtable - add a Unicode character table to a console font
+%
+psfgettable - extract the embedded Unicode character table from a console font
+%
+psfstriptable - remove the embedded Unicode character table from a console font
+%
+psfxtable - handle Unicode character tables for console fonts
+%
+pstree - display a tree of processes
+%
+pstree.x11 - display a tree of processes
+%
+pstruct - Dump C structures as generated from "cc - g - S" stabs
+%
+ptar - a tar-like program written in perl
+%
+ptardiff - program that diffs an extracted archive against an unextracted one
+%
+ptargrep - Apply pattern matching to the contents of files in a tar archive
+%
+ptx - produce a permuted index of file contents
+%
+pwdx - report current working directory of a process
+%
+py3clean - removes .pyc and .pyo files
+%
+py3compile - byte compile Python 3 source files
+%
+py3versions - print python3 version information
+%
+pybuild - invokes various build systems for requested Python versions in order to build modules and extensions
+%
+pyclean - removes .pyc and .pyo files
+%
+pycompile - byte compile Python source files
+%
+pydoc - the Python documentation tool
+%
+pydoc2.7 - the Python documentation tool
+%
+pydoc3 - the Python documentation tool
+%
+pydoc3.4 - the Python documentation tool
+%
+pygettext - Python equivalent of xgettext1)
+%
+pygettext2.7 - Python equivalent of xgettext1)
+%
+pygettext3 - Python equivalent of xgettext1)
+%
+pygettext3.4 - Python equivalent of xgettext1)
+%
+python - an interpreted, interactive, object-oriented programming language
+%
+python2 - an interpreted, interactive, object-oriented programming language
+%
+python2.7 - an interpreted, interactive, object-oriented programming language
+%
+python2.7-config - output build options for python C/C++ extensions or embedding
+%
+python2-config - output build options for python C/C++ extensions or embedding
+%
+python3 - an interpreted, interactive, object-oriented programming language
+%
+python3.4 - an interpreted, interactive, object-oriented programming language
+%
+python3.4-config - output build options for python C/C++ extensions or embedding
+%
+python3.4m - an interpreted, interactive, object-oriented programming language
+%
+python3.4m-config - output build options for python C/C++ extensions or embedding
+%
+python3-config - output build options for python C/C++ extensions or embedding
+%
+python3m - an interpreted, interactive, object-oriented programming language
+%
+python3m-config - output build options for python C/C++ extensions or embedding
+%
+python-config - output build options for python C/C++ extensions or embedding
+%
+pyversions - print python version information
+%
+ranlib - generate index to archive.
+%
+rcp - secure copy remote file copy program)
+%
+rctest - RFCOMM testing
+%
+readelf - Displays information about ELF files.
+%
+realpath - return the canonicalized absolute pathname
+%
+realpath - print the resolved path
+%
+rename - change the name or location of a file
+%
+rename - renames multiple files
+%
+rename.ul - rename files
+%
+renice - alter priority of running processes
+%
+reset - terminal initialization
+%
+resizepart - simple wrapper around the "resize partition" ioctl
+%
+rev - reverse lines characterwise
+%
+rfcomm - RFCOMM configuration utility
+%
+rgrep - print lines matching a pattern
+%
+rlogin - OpenSSH SSH client remote login program)
+%
+routef - flush routes
+%
+routel - list routes with pretty output format
+%
+rpcgen - an RPC protocol compiler
+%
+rsh - OpenSSH SSH client remote login program)
+%
+rsync - a fast, versatile, remote and local) file-copying tool
+%
+rtstat - unified linux network statistics
+%
+runcon - run command with specified security context
+%
+run-mailcap - execute programs via entries in the mailcap file
+%
+s2p - a stream editor
+%
+scp - secure copy remote file copy program)
+%
+screendump - dump the contents of a virtual console to stdout
+%
+script - make typescript of terminal session
+%
+scriptreplay - play back typescripts, using timing information
+%
+sdiff - side-by-side merge of file differences
+%
+sdptool - control and interrogate SDP servers
+%
+see - execute programs via entries in the mailcap file
+%
+select-editor - select your default sensible-editor from all installed editors
+%
+seq - print a sequence of numbers
+%
+setarch - change reported architecture in new program environment and set personality flags
+%
+setcifsacl - Userspace helper to alter an ACL in a security descriptor for Common Internet File System CIFS)
+%
+setfacl - set file access control lists
+%
+setkeycodes - load kernel scancode-to-keycode mapping table entries
+%
+setleds - set the keyboard leds
+%
+setlogcons - Send kernel messages to console N
+%
+setmetamode - define the keyboard meta key handling
+%
+setsid - creates a session and sets the process group ID
+%
+setsid - run a program in a new session
+%
+setterm - set terminal attributes
+%
+setvtrgb - set the virtual terminal RGB colors
+%
+setvtrgb - customize the console color map
+%
+sftp - secure file transfer program
+%
+sha1sum - compute and check SHA1 message digest
+%
+sha224sum - compute and check SHA224 message digest
+%
+sha256sum - compute and check SHA256 message digest
+%
+sha384sum - compute and check SHA384 message digest
+%
+sha512sum - compute and check SHA512 message digest
+%
+shasum - Print or Check SHA Checksums
+%
+showconsolefont - Show the current EGA/VGA console screen font
+%
+showkey - examine the codes sent by the keyboard
+%
+shred - overwrite a file to hide its contents, and optionally delete it
+%
+shuf - generate random permutations
+%
+size - list section sizes and total size.
+%
+skill - send a signal or report process status
+%
+slabtop - display kernel slab cache information in real time
+%
+slogin - OpenSSH SSH client remote login program)
+%
+snice - send a signal or report process status
+%
+sntp - standard Simple Network Time Protocol program
+%
+soelim - interpret .so requests in groff input
+%
+sort - sort lines of text files
+%
+sotruss - trace shared library calls through PLT
+%
+speaker-test - command-line speaker test tone generator for ALSA
+%
+splain - produce verbose warning diagnostics
+%
+split - split a file into pieces
+%
+splitfont - extract characters from an ISO-type font.
+%
+sprof - read and display shared object profiling data
+%
+ssh - OpenSSH SSH client remote login program)
+%
+ssh-add - adds private key identities to the authentication agent
+%
+ssh-agent - authentication agent
+%
+ssh-argv0 - replaces the old ssh command-name as hostname handling
+%
+ssh-copy-id - use locally available keys to authorise logins on a remote machine
+%
+ssh-keygen - authentication key generation, management and conversion
+%
+ssh-keyscan - gather ssh public keys
+%
+stat - get file status
+%
+stat - display file or file system status
+%
+stdbuf - Run COMMAND, with modified buffering operations for its standard streams.
+%
+strace - trace system calls and signals
+%
+strfile - create a random access file for storing strings
+%
+strings - print the strings of printable characters in files.
+%
+strip - Discard symbols from object files.
+%
+sudo - execute a command as another user
+%
+sudoedit - execute a command as another user
+%
+sudoreplay - replay sudo session logs
+%
+sum - checksum and count the blocks in a file
+%
+systemd-analyze - Analyze system boot-up performance
+%
+systemd-cat - Connect a pipeline or program's output with the journal
+%
+systemd-cgls - Recursively show control group contents
+%
+systemd-cgtop - Show top control groups by their resource usage
+%
+systemd-delta - Find overridden configuration files
+%
+systemd-detect-virt - Detect execution in a virtualized environment
+%
+systemd-nspawn - Spawn a namespace container for debugging, testing and building
+%
+systemd-path - List and query system and user paths
+%
+systemd-run - Run programs in transient scope or service units
+%
+tabs - set tabs on a terminal
+%
+tac - concatenate and print files in reverse
+%
+tail - output the last part of files
+%
+tasksel - a user interface for installing tasks
+%
+taskset - retrieve or set a process's CPU affinity
+%
+tbl - format tables for troff
+%
+tee - duplicating pipe content
+%
+tee - read from standard input and write to standard output and files
+%
+test - check file types and compare values
+%
+tic - the terminfo entry-description compiler
+%
+timedatectl - Control the system time and date
+%
+timeout - run a command with a time limit
+%
+tload - graphic representation of system load average
+%
+toe - table of terminfo) entries
+%
+top - display Linux processes
+%
+touch - change file timestamps
+%
+tput - initialize a terminal or query terminfo database
+%
+tr - translate or delete characters
+%
+traceproto - print the route packets trace to network host
+%
+traceproto.db - print the route packets trace to network host
+%
+tcptraceroute - print the route packets trace to network host
+%
+traceroute - print the route packets trace to network host
+%
+traceroute6 - print the route packets trace to network host
+%
+traceroute6.db - print the route packets trace to network host
+%
+traceroute.db - print the route packets trace to network host
+%
+traceroute-nanog - print the route packets trace to network host
+%
+troff - the troff processor of the groff text formatting system
+%
+truncate - truncate a file to a specified length
+%
+truncate - shrink or extend the size of a file to the specified size
+%
+tset - terminal initialization
+%
+tsort - perform topological sort
+%
+tty - controlling terminal
+%
+tty - print the file name of the terminal connected to standard input
+%
+tzselect - select a timezone
+%
+tzselect - view timezones
+%
+ucf - Update Configuration File: preserve user changes in configuration files
+%
+ucfq - query the ucf database
+%
+ucfr - Update Configuration File Registry: associate packages with configuration files
+%
+ul - do underlining
+%
+unexpand - convert spaces to tabs
+%
+unicode_stop - revert keyboard and console from unicode mode
+%
+uniq - report or omit repeated lines
+%
+unix2dos - DOS/Mac to Unix and vice versa text file format converter
+%
+unix2mac - DOS/Mac to Unix and vice versa text file format converter
+%
+unlink - delete a name and possibly the file it refers to
+%
+unlink - call the unlink function to remove the specified file
+%
+unlzma - Compress or decompress .xz and .lzma files
+%
+unshare - disassociate parts of the process execution context
+%
+unshare - run program with some namespaces unshared from parent
+%
+unstr - dump strings in pointer order
+%
+unxz - Compress or decompress .xz and .lzma files
+%
+unzip - list, test and extract compressed files in a ZIP archive
+%
+unzipsfx - self-extracting stub for prepending to ZIP archives
+%
+update-mime-database - a program to build the Shared MIME-Info database cache
+%
+uptime - Tell how long the system has been running.
+%
+usb-devices - print USB device details
+%
+users - print the user names of users currently logged in to the current host
+%
+utmpdump - dump UTMP and WTMP files in raw format
+%
+vmstat - Report virtual memory statistics
+%
+w - Show who is logged on and what they are doing.
+%
+wall - write a message to all users
+%
+watch - execute a program periodically, showing output fullscreen
+%
+wc - print newline, word, and byte counts for each file
+%
+wget - The non-interactive network downloader.
+%
+whereis - locate the binary, source, and manual page files for a command
+%
+whiptail - display dialog boxes from shell scripts
+%
+who - show who is logged on
+%
+whoami - print effective userid
+%
+wpa_passphrase - Generate a WPA PSK from an ASCII passphrase for a SSID
+%
+w.procps - Show who is logged on and what they are doing.
+%
+write - write to a file descriptor
+%
+write - send a message to another user
+%
+xargs - build and execute command lines from standard input
+%
+xauth - X authority file utility
+%
+xdg-user-dir - Find an XDG user dir
+%
+xdg-user-dirs-update - Update XDG user dir configuration
+%
+xgps - test clients for gpsd
+%
+xgpsspeed - test clients for gpsd
+%
+xsubpp - compiler to convert Perl XS code into C code
+%
+xz - Compress or decompress .xz and .lzma files
+%
+xzcat - Compress or decompress .xz and .lzma files
+%
+xzcmp - compare compressed files
+%
+xzdiff - compare compressed files
+%
+xzegrep - search compressed files for a regular expression
+%
+xzfgrep - search compressed files for a regular expression
+%
+xzgrep - search compressed files for a regular expression
+%
+xzless - view xz or lzma compressed text) files
+%
+xzmore - view xz or lzma compressed text) files
+%
+yes - output a string repeatedly until killed
+%
+zdump - timezone dumper
+%
+zipdetails - display the internal structure of zip files
+%
+zipgrep - search files in a ZIP archive for lines matching a pattern
+%
+zipinfo - list detailed information about a ZIP archive
+%
+accessdb - mostra il contenuto di una base di dati man-db in un formato comprensibile.
+%
+addgroup - aggiunge un utente o un gruppo al sistema
+%
+add-shell - aggiunge shell all'elenco di quelle valide per il login
+%
+adduser - aggiunge un utente o un gruppo al sistema
+%
+chpasswd - aggiorna le password in modo non interattivo
+%
+delgroup - rimuove un utente o un gruppo dal sistema
+%
+deluser - rimuove un utente o un gruppo dal sistema
+%
+dpkg-statoverride - sovrascrive la proprietà e i permessi dei file
+%
+groupadd - crea un nuovo gruppo
+%
+groupdel - rimuove un gruppo
+%
+groupmod - modifica la definizione di un gruppo del sistema
+%
+grpck - verifica l'integrità dei file dei gruppi
+%
+grpconv - convertono a e da password e gruppi shadow.
+%
+grpunconv - convertono a e da password e gruppi shadow.
+%
+newusers - aggiorna e crea nuovi utenti in blocco
+%
+nologin - rifiuta gentilmente l'accesso
+%
+pwck - verifica l'integrità dei file delle password
+%
+pwconv - convertono a e da password e gruppi shadow.
+%
+pwunconv - convertono a e da password e gruppi shadow.
+%
+remove-shell - rimuove shell dall'elenco di quelle valide per il login
+%
+update-alternatives - mantiene collegamenti simbolici che determinano i comandi predefiniti
+%
+useradd - crea un nuovo utente o aggiorna le informazioni predefinite per i nuovi utenti
+%
+userdel - rimuove l'account di un utente ed i file relativi
+%
+usermod - modifica l'account di un utente
+%
+vigr - modifica i file delle password, dei gruppi, delle password shadow o dei gruppi shadow
+%
+vipw - modifica i file delle password, dei gruppi, delle password shadow o dei gruppi shadow
+%
+alsactl - advanced controls for ALSA soundcard driver
+%
+arp - manipulate the system ARP cache
+%
+arp - Linux ARP kernel module.
+%
+arpd - userspace arp daemon.
+%
+avahi-daemon - The Avahi mDNS/DNS-SD daemon
+%
+blkmapd - pNFS block layout mapping daemon
+%
+bluetoothd - Bluetooth daemon
+%
+chgpasswd - update group passwords in batch mode
+%
+chroot - change root directory
+%
+chroot - run command or interactive shell with special root directory
+%
+cifs.idmap - Userspace helper for mapping ids for Common Internet File System CIFS)
+%
+cifs.upcall - Userspace upcall helper for Common Internet File System CIFS)
+%
+cpgr - copy with locking the given file to the password or group file
+%
+cppw - copy with locking the given file to the password or group file
+%
+cron - daemon to execute scheduled commands Vixie Cron)
+%
+dmidecode - DMI table decoder
+%
+dpkg-divert - override a package's version of a file
+%
+dpkg-preconfigure - let packages ask questions prior to their installation
+%
+dpkg-reconfigure - reconfigure an already installed package
+%
+e2freefrag - report free space fragmentation information
+%
+e4crypt - ext4 filesystem encryption utility
+%
+e4defrag - online defragmenter for ext4 filesystem
+%
+fdformat - low-level format a floppy disk
+%
+filefrag - report on file fragmentation
+%
+gpsd - interface daemon for GPS receivers
+%
+gpsdctl - tool for sending commands to gpsd over its control socket
+%
+iconvconfig - create iconv module configuration cache
+%
+in.identtestd - a small daemon that can be used to test Ident servers
+%
+install-sgmlcatalog - maintain transitional SGML catalog
+%
+invoke-rc.d - executes System-V style init script actions
+%
+ip6tables-apply - a safer way to update iptables remotely
+%
+iptables-apply - a safer way to update iptables remotely
+%
+ldattach - attach a line discipline to a serial line
+%
+locale-gen - generates localisation files from templates
+%
+logrotate - rotates, compresses, and mails system logs
+%
+logrotate - rotates, compresses, and mails system logs
+%
+mkinitramfs - low-level tool for generating an initramfs image
+%
+mklost+found - create a lost+found directory on a mounted Linux second extended file system
+%
+mountstats - Displays NFS client per-mount statistics
+%
+nfnl_osf - load and unload os fingerprint database
+%
+nfsidmap - The NFS idmapper upcall program
+%
+nfsiostat - Emulate iostat for NFS mount points using /proc/self/mountstats
+%
+nfsstat - list NFS statistics
+%
+nologin - prevent unprivileged users from logging into the system
+%
+ntpd - Network Time Protocol NTP) daemon
+%
+ntp-keygen - generate public and private keys
+%
+ntptime - read kernel time variables
+%
+ntp-wait - wait for NTP server to synchronize
+%
+pam-auth-update - manage PAM configuration using packaged profiles
+%
+pam_getenv - get environment variables from /etc/environment
+%
+pam_timestamp_check - Check to see if the default timestamp is valid
+%
+plymouth-set-default-theme - A graphical boot system and logger
+%
+plymouth-set-default-theme - Set the plymouth theme
+%
+readprofile - read kernel profiling information
+%
+rmt - remote magtape protocol module
+%
+rmt-tar - remote magtape protocol module
+%
+rpcdebug - set and clear NFS and RPC kernel debug flags
+%
+rpc.gssd - RPCSEC_GSS daemon
+%
+rpc.idmapd - NFSv4 ID <-> Name Mapper
+%
+rpcinfo - report RPC information
+%
+rpcinfo - report RPC information
+%
+rpc.svcgssd - server-side rpcsec_gss daemon
+%
+rsyslogd - reliable and extended syslogd
+%
+rtcwake - enter a system sleep state until specified wakeup time
+%
+safe_finger - finger client wrapper that protects against nasty stuff from finger servers
+%
+service - run a System V init script
+%
+setvesablank - Turn VESA screen blanking on or off
+%
+sshd - OpenSSH SSH daemon
+%
+tarcat - concatenates the pieces of a GNU tar multi-volume archive
+%
+tcpd - access control facility for internet services
+%
+tcpdchk - tcp wrapper configuration checker
+%
+tcpdmatch - tcp wrapper oracle
+%
+tcptraceroute - print the route packets trace to network host
+%
+tcptraceroute.db - print the route packets trace to network host
+%
+th-cmd - - triggerhappy commander
+%
+thd - - triggerhappy global hotkey daemon
+%
+traceroute - print the route packets trace to network host
+%
+try-from - test program for the tcp_wrapper
+%
+tunelp - set various parameters for the lp device
+%
+update-ca-certificates - update /etc/ssl/certs and certificates.crt
+%
+update-catalog - create or update entry in SGML catalog file
+%
+update-icon-caches - Update wrapper script for the icon caches
+%
+update-info-dir - update or create index file from all installed info files in directory
+%
+update-initramfs - generate an initramfs image
+%
+update-locale - Modify global locale settings
+%
+update-mime - create or update MIME information
+%
+update-passwd - safely update /etc/passwd, /etc/shadow and /etc/group
+%
+update-python-modules - byte-compile python modules
+%
+update-rc.d - install and remove System-V style init script links
+%
+update-usbids - download new version of the USB ID list
+%
+update-xmlcatalog - maintain XML catalog files
+%
+usb_modeswitch - control the mode of 'multi-state' USB devices
+%
+usb_modeswitch_dispatcher - wrapper for usb_modeswitch, not intended for direct invocation.
+%
+validlocale - Test if a given locale is available
+%
+vcstime - Show time in upper right hand corner of the console screen
+%
+visudo - edit the sudoers file
+%
+zic - timezone compiler
