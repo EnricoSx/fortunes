@@ -4,7 +4,7 @@ fortune-mod
 
 installazione
 apt install fortune-mod -y
-copiare i file .dat dentro a /usr/share/games/fortunes/
+copiare i file iniziale e il file .dat dentro a /usr/share/games/fortunes/
 avviare 
 fortune [nome archivio dat1] [archivio dat2] oppure solo fortune -a per avviarli tutti
 
